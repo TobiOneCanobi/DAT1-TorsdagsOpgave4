@@ -7,10 +7,10 @@ public class Main
 	{
 		ArrayList<String> actions = new ArrayList<String>();
 
-		actions.add("Start game");
-		actions.add("Resume game");
-		actions.add("Pause game");
-		actions.add("End game");
+		actions.add("1) Start game");
+		actions.add("2) Resume game");
+		actions.add("3) Pause game");
+		actions.add("4) End game");
 
 		//System.out.println(actions);
 

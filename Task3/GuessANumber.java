@@ -23,7 +23,7 @@ public class GuessANumber {
 
     	// Read user input
 
-    	int input
+    	int input;
 
         //use hasNextDouble to check if input is numeric,
 
